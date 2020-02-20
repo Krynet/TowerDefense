@@ -211,11 +211,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.00.49:599][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
 [2020.02.20-10.00.49:599][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
 [2020.02.20-10.00.49:599][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.02.20-10.00.49:599][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.02.20-10.00.49:599][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.02.20-10.00.49:599][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.02.20-10.00.49:599][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.02.20-10.00.49:599][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
 [2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
 [2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
 [2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
@@ -280,9 +280,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
 [2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
 [2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
-[2020.02.20-10.00.49:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.20-10.00.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.20-10.00.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.20-10.00.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
 [2020.02.20-10.00.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
 [2020.02.20-10.00.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
 [2020.02.20-10.00.49:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
@@ -335,7 +335,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.00.49:673][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
 [2020.02.20-10.00.49:673][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
 [2020.02.20-10.00.49:673][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.02.20-10.00.49:674][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.20-10.00.49:673][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
 [2020.02.20-10.00.49:674][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
 [2020.02.20-10.00.49:674][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
 [2020.02.20-10.00.49:674][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
@@ -411,8 +411,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.00.49:750][  0]LogInit: High frequency timer resolution =10.000000 MHz
 [2020.02.20-10.00.49:751][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
 [2020.02.20-10.00.49:751][  0]LogMemory: Platform Memory Stats for Windows
-[2020.02.20-10.00.49:751][  0]LogMemory: Process Physical Memory: 105.29 MB used, 105.29 MB peak
-[2020.02.20-10.00.49:751][  0]LogMemory: Process Virtual Memory: 101.59 MB used, 101.59 MB peak
+[2020.02.20-10.00.49:751][  0]LogMemory: Process Physical Memory: 105.33 MB used, 105.34 MB peak
+[2020.02.20-10.00.49:751][  0]LogMemory: Process Virtual Memory: 101.44 MB used, 101.44 MB peak
 [2020.02.20-10.00.49:751][  0]LogMemory: Physical Memory: 6868.37 MB used,  9328.48 MB free, 16196.85 MB total
 [2020.02.20-10.00.49:751][  0]LogMemory: Virtual Memory: 5159.24 MB used,  134212568.00 MB free, 134217728.00 MB total
 [2020.02.20-10.00.49:809][  0]LogWindows: WindowsPlatformFeatures enabled
@@ -422,7 +422,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.00.50:667][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
 [2020.02.20-10.00.50:667][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
 [2020.02.20-10.00.50:667][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
-[2020.02.20-10.00.50:668][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.02.20-10.00.50:667][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
 [2020.02.20-10.00.50:701][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
 [2020.02.20-10.00.50:702][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
 [2020.02.20-10.00.50:702][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
@@ -444,21 +444,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.00.52:684][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
 [2020.02.20-10.00.52:684][  0]LogWindows: EnumDisplayDevices:
 [2020.02.20-10.00.52:684][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
-[2020.02.20-10.00.52:685][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.20-10.00.52:684][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
 [2020.02.20-10.00.52:685][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
 [2020.02.20-10.00.52:685][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
 [2020.02.20-10.00.52:685][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
-[2020.02.20-10.00.52:686][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.02.20-10.00.52:685][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
 [2020.02.20-10.00.52:686][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
 [2020.02.20-10.00.52:686][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
 [2020.02.20-10.00.52:686][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
 [2020.02.20-10.00.52:686][  0]LogD3D11RHI:   Driver Version: 441.45 (internal:26.21.14.4145, unified:441.45)
 [2020.02.20-10.00.52:686][  0]LogD3D11RHI:      Driver Date: 11-26-2019
 [2020.02.20-10.00.52:686][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
-[2020.02.20-10.00.52:743][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2020.02.20-10.00.52:743][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.20-10.00.52:739][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.20-10.00.52:740][  0]LogD3D11RHI: Async texture creation enabled
 [2020.02.20-10.00.52:970][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2020.02.20-10.00.53:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.20-10.00.53:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
 [2020.02.20-10.00.53:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
 [2020.02.20-10.00.53:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
 [2020.02.20-10.00.53:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
@@ -467,7 +467,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.00.53:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
 [2020.02.20-10.00.53:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
 [2020.02.20-10.00.53:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
-[2020.02.20-10.00.53:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.20-10.00.53:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
 [2020.02.20-10.00.53:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
 [2020.02.20-10.00.53:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
 [2020.02.20-10.00.53:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
@@ -495,9 +495,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.00.54:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
 [2020.02.20-10.00.54:016][  0]LogTargetPlatformManager: Display: Building Assets For Windows
 [2020.02.20-10.00.54:120][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.02.20-10.00.54:812][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (C:/Users/Lunar/Documents/GitKranken Workshop Unreal/TowerDefense/Maheyahi/Intermediate/Shaders/WorkingDirectory/10156/).
-[2020.02.20-10.00.54:812][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lunar/AppData/Local/Temp/UnrealShaderWorkingDir/FFABC4F94F4F1CA046BEA3971B3B1F5F/'.
-[2020.02.20-10.00.54:834][  0]LogXGEController: Cleaning working directory: C:/Users/Lunar/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.20-10.00.54:812][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (C:/Users/Lunar/Documents/GitKranken Workshop Unreal/TowerDefense/Maheyahi/Intermediate/Shaders/WorkingDirectory/15896/).
+[2020.02.20-10.00.54:812][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lunar/AppData/Local/Temp/UnrealShaderWorkingDir/D8EEEA16489CB535E58161B24CDE5ABE/'.
 [2020.02.20-10.00.54:835][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 [2020.02.20-10.00.54:835][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
 [2020.02.20-10.00.54:835][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
@@ -525,7 +524,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.01.11:694][  0]LogMeshReduction: No distributed automatic mesh merging module available
 [2020.02.20-10.01.11:694][  0]LogMeshMerging: No distributed automatic mesh merging module available
 [2020.02.20-10.01.12:104][  0]LogNetVersion: Maheyahi 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3494584960)
-[2020.02.20-10.01.22:070][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.032266 seconds
+[2020.02.20-10.01.22:070][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/Lunar/Documents/GitKranken Workshop Unreal/TowerDefense/Maheyahi/Intermediate/CachedAssetRegistry.bin
+[2020.02.20-10.01.22:071][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.032245 seconds
 [2020.02.20-10.01.22:104][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
 [2020.02.20-10.01.22:104][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
 [2020.02.20-10.01.22:104][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
@@ -536,7 +536,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.01.28:087][  0]SourceControl: Source control is disabled
 [2020.02.20-10.01.28:119][  0]SourceControl: Source control is disabled
 [2020.02.20-10.01.28:166][  0]SourceControl: Source control is disabled
-[2020.02.20-10.01.29:819][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.20-10.01.29:818][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
 [2020.02.20-10.01.29:943][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
 [2020.02.20-10.01.29:943][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
 [2020.02.20-10.01.30:541][  0]LogOcInput: OculusInput pre-init called
@@ -557,28 +557,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.01.33:167][  0]LogAudio: Display: AudioDevice MaxSources: 32
 [2020.02.20-10.01.33:185][  0]LogAudio: Display: Using built-in audio occlusion.
 [2020.02.20-10.01.33:185][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: Name: Speakers/Headphones (3- Realtek(R) Audio)
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: Is Default: Yes
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: Sample Rate: 48000
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: Channel Count Used: 8
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: Device Channel Count: 8
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: Channel Order:
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: 0: FrontLeft
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: 1: FrontRight
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: 2: FrontCenter
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: 3: LowFrequency
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: 4: BackLeft
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: 5: BackRight
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: 6: SideLeft
-[2020.02.20-10.01.33:345][  0]LogAudioMixer: Display: 7: SideRight
-[2020.02.20-10.01.35:195][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (3- Realtek(R) Audio)
+[2020.02.20-10.01.33:343][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.20-10.01.33:343][  0]LogAudioMixer: Display: Name: Speakers/Headphones (3- Realtek(R) Audio)
+[2020.02.20-10.01.33:343][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.20-10.01.33:343][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.20-10.01.33:343][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: 5: BackRight
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.02.20-10.01.33:344][  0]LogAudioMixer: Display: 7: SideRight
+[2020.02.20-10.01.35:106][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (3- Realtek(R) Audio)
 [2020.02.20-10.01.35:216][  0]LogInit: FAudioDevice initialized.
 [2020.02.20-10.01.35:216][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.02.20-10.01.35:263][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/Lunar/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
-[2020.02.20-10.01.35:266][  0]LogInit: Texture streaming: Enabled
-[2020.02.20-10.01.35:359][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.02.20-10.01.35:359][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.20-10.01.35:223][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/Lunar/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.20-10.01.35:226][  0]LogInit: Texture streaming: Enabled
+[2020.02.20-10.01.35:358][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.20-10.01.35:358][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.20-10.01.35:362][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
 [2020.02.20-10.01.36:518][  0]LogInit: Transaction tracking system initialized
 [2020.02.20-10.01.37:380][  0]BlueprintLog: New page: Editor Load
 [2020.02.20-10.01.41:636][  0]LocalizationService: Localization service is disabled
@@ -595,31 +596,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-10.02.06:736][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2020.02.20-10.02.09:448][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
 [2020.02.20-10.02.10:778][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.02.20-10.02.10:910][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.20-10.02.10:911][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
 [2020.02.20-10.02.10:911][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.02.20-10.02.10:917][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,91ms to complete.
+[2020.02.20-10.02.10:917][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,166ms to complete.
 [2020.02.20-10.02.10:917][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 5.288
 [2020.02.20-10.02.12:809][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.20-10.02.12:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.20-10.02.12:833][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.20-10.02.12:838][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.02.20-10.02.12:958][  0]LogCollectionManager: Loaded 0 collections in 0.000989 seconds
+[2020.02.20-10.02.12:958][  0]LogCollectionManager: Loaded 0 collections in 0.000982 seconds
 [2020.02.20-10.02.13:097][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lunar/Documents/GitKranken Workshop Unreal/TowerDefense/Maheyahi/Saved/Collections/' took 0.00s
 [2020.02.20-10.02.13:097][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lunar/Documents/GitKranken Workshop Unreal/TowerDefense/Maheyahi/Content/Developers/Lunar/Collections/' took 0.00s
 [2020.02.20-10.02.13:097][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Lunar/Documents/GitKranken Workshop Unreal/TowerDefense/Maheyahi/Content/Collections/' took 0.00s
-[2020.02.20-10.02.13:097][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3015 classes and 717 folders.
+[2020.02.20-10.02.13:097][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3015 classes and 717 folders.
 [2020.02.20-10.02.13:168][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
 [2020.02.20-10.02.14:803][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
 [2020.02.20-10.02.15:880][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
-[2020.02.20-10.02.16:196][  0]LogSlate: Took 0.037049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.02.20-10.02.16:235][  0]LogSlate: Took 0.016904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.02.20-10.02.16:301][  0]LogSlate: Took 0.019678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.20-10.02.16:196][  0]LogSlate: Took 0.037071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.20-10.02.16:235][  0]LogSlate: Took 0.016879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.20-10.02.16:301][  0]LogSlate: Took 0.019661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2020.02.20-10.02.17:084][  0]LogRenderer: Reallocating scene render targets to support 940x480 Format 10 NumSamples 1 (Frame:1).
 [2020.02.20-10.02.17:458][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
 [2020.02.20-10.02.17:458][  0]LogLoad: (Engine Initialization) Total time: 127.48 seconds
 [2020.02.20-10.02.17:458][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
 [2020.02.20-10.02.17:718][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.02.20-10.02.17:841][  0]LogSlate: Took 0.047999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
-[2020.02.20-10.02.17:942][  0]LogSlate: Took 0.012952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.02.20-10.02.19:084][ 15]LogAssetRegistry: Asset discovery search completed in 77.8942 seconds
-[2020.02.20-10.02.19:087][ 15]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.02.20-10.02.17:841][  0]LogSlate: Took 0.047998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.20-10.02.17:942][  0]LogSlate: Took 0.012970 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.20-10.02.19:078][ 14]LogAssetRegistry: Asset discovery search completed in 77.8882 seconds
+[2020.02.20-10.02.19:080][ 14]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
