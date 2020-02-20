@@ -726,3 +726,9 @@ Make sure 'BP_towerBase_C' has been compiled for  Set hasTower
 [2020.02.20-08.34.45:399][334]LogSavePackage: Moving 'D:/Projets/Mayahi/TowerDefense/Maheyahi/Saved/widgetTowerBuild1603FBBB4C5F06F8725355BAC5A47A49.tmp' to 'D:/Projets/Mayahi/TowerDefense/Maheyahi/Content/HUDs/widgetTowerBuild.uasset'
 [2020.02.20-08.34.45:408][334]AssetCheck: New page: Asset Save: widgetTowerBuild
 [2020.02.20-08.34.45:408][334]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUDs/widgetTowerBuild.widgetTowerBuild
+[2020.02.20-08.36.02:804][872]BlueprintLog: New page: Compile widgetTowerBuild
+[2020.02.20-08.36.02:844][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.02.20-08.36.03:289][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUDs/widgetTowerBuild" FILE="D:/Projets/Mayahi/TowerDefense/Maheyahi/Content/HUDs/widgetTowerBuild.uasset" SILENT=true
+[2020.02.20-08.36.03:293][894]LogSavePackage: Moving 'D:/Projets/Mayahi/TowerDefense/Maheyahi/Saved/widgetTowerBuildF76D9BCF4CF318750DB962B2814E3922.tmp' to 'D:/Projets/Mayahi/TowerDefense/Maheyahi/Content/HUDs/widgetTowerBuild.uasset'
+[2020.02.20-08.36.03:303][894]AssetCheck: New page: Asset Save: widgetTowerBuild
+[2020.02.20-08.36.03:303][894]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUDs/widgetTowerBuild.widgetTowerBuild
