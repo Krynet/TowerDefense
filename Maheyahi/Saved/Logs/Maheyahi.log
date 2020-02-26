@@ -593,3 +593,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.26-13.09.33:587][  0]MapCheck: New page: Map Check
 [2020.02.26-13.09.33:587][  0]LightingResults: New page: Lighting Build
 [2020.02.26-13.09.33:613][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.26-13.09.35:005][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.02.26-13.09.35:016][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.26-13.09.35:054][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.02.26-13.09.35:055][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.26-13.09.35:055][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2020.02.26-13.09.35:055][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.472
+[2020.02.26-13.09.35:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-13.09.35:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-13.09.35:225][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-13.09.35:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.26-13.09.35:248][  0]LogCollectionManager: Loaded 0 collections in 0.000687 seconds
+[2020.02.26-13.09.35:258][  0]LogFileCache: Scanning file cache for directory 'D:/Tower defense v2/TowerDefense/Maheyahi/Saved/Collections/' took 0.00s
+[2020.02.26-13.09.35:258][  0]LogFileCache: Scanning file cache for directory 'D:/Tower defense v2/TowerDefense/Maheyahi/Content/Developers/koico/Collections/' took 0.00s
+[2020.02.26-13.09.35:258][  0]LogFileCache: Scanning file cache for directory 'D:/Tower defense v2/TowerDefense/Maheyahi/Content/Collections/' took 0.00s
+[2020.02.26-13.09.35:258][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 3015 classes and 717 folders.
+[2020.02.26-13.09.35:262][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.26-13.09.35:460][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.26-13.09.35:475][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.02.26-13.09.35:592][  0]LogSlate: Took 0.004995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.26-13.09.35:597][  0]LogSlate: Took 0.003693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.26-13.09.35:604][  0]LogSlate: Took 0.004056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.26-13.09.35:686][  0]LogRenderer: Reallocating scene render targets to support 972x404 Format 10 NumSamples 1 (Frame:1).
+[2020.02.26-13.09.35:773][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.26-13.09.35:773][  0]LogLoad: (Engine Initialization) Total time: 20.39 seconds
+[2020.02.26-13.09.35:773][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.26-13.09.35:846][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.26-13.09.35:861][  0]LogSlate: Took 0.006772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.26-13.09.35:868][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.26-13.09.36:579][  9]LogAssetRegistry: Asset discovery search completed in 12.5679 seconds
+[2020.02.26-13.09.36:582][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
